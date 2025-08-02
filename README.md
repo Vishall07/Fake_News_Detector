@@ -82,7 +82,7 @@ dsa8-al-s3-25/
 ### 1. Clone the Repository
 ```bash
 git clone <repo-url>
-cd dsa8-al-s3-25
+cd Fake_News_Detector
 ```
 
 ### 2. Install Dependencies
